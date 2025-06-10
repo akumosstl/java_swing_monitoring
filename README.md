@@ -2,9 +2,9 @@
 
 A Java Agent for monitoring and automating user interactions on any Java Swing application.
 
-- 🏗️ Built with Java 1.8, Maven, SQLite, and Gson.
+- 🏗️ Built with Java 1.8 and Maven.
 - 🔗 Provides a REST API to **record** and **replay** Swing UI interactions.
-- 🗂️ Saves interaction data in **JSON files** and **SQLite databases**.
+- 🗂️ Saves interaction data in **JSON files**.
 - 🚀 Deployable via **JNLP (Java Web Start)**.
 
 ---
@@ -14,7 +14,7 @@ A Java Agent for monitoring and automating user interactions on any Java Swing a
 - ✅ Capture user interactions like clicks, text input, JTable selections, dropdown selections, and more.
 - ✅ Supports components inside nested `JFrame`, `JDialog`, and dynamic UI elements.
 - ✅ REST endpoints to start/stop recording and to automate playback.
-- ✅ Persistence in both JSON and SQLite.
+- ✅ Persistence in JSON file system.
 - ✅ Can be attached to any Java Swing application as a **Java Agent**.
 
 ---
