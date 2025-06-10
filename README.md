@@ -33,7 +33,7 @@ A Java Agent for monitoring and automating user interactions on any Java Swing a
 
 ```bash
 git clone https://github.com/akumosstl/java_swing_monitoring.git
-cd chat_gpt_swing/agent
+cd java_swing_monitoring
 mvn clean package
 ```
 
