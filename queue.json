@@ -1,0 +1,79 @@
+{
+  "0": {
+    "componentType": "javax.swing.JMenu",
+    "componentId": "JMenuFile@null",
+    "inputValue": "File",
+    "timeToNext": 1270,
+    "eventType": "500"
+  },
+  "1": {
+    "componentType": "javax.swing.JButton",
+    "componentId": "JButtonhello world!@null.contentPane",
+    "inputValue": "hello world!",
+    "timeToNext": 36,
+    "eventType": "1004"
+  },
+  "2": {
+    "componentType": "javax.swing.JButton",
+    "componentId": "JButtonhello world!@null.contentPane",
+    "inputValue": "hello world!",
+    "timeToNext": 3,
+    "eventType": "1005"
+  },
+  "3": {
+    "componentType": "javax.swing.JMenu",
+    "componentId": "JMenuFile@null",
+    "inputValue": "File",
+    "timeToNext": 157,
+    "eventType": "500"
+  },
+  "4": {
+    "componentType": "javax.swing.JMenuItem",
+    "componentId": "JMenuItemOpen Form@null",
+    "inputValue": "Open Form",
+    "timeToNext": 813,
+    "eventType": "500"
+  },
+  "5": {
+    "componentType": "javax.swing.JButton",
+    "componentId": "JButtonhello world!@null.contentPane",
+    "inputValue": "hello world!",
+    "timeToNext": 416,
+    "eventType": "1004"
+  },
+  "6": {
+    "componentType": "javax.swing.JButton",
+    "componentId": "JButtonhello world!@null.contentPane",
+    "inputValue": "hello world!",
+    "timeToNext": 4,
+    "eventType": "1005"
+  },
+  "7": {
+    "componentType": "javax.swing.JTextField",
+    "componentId": "JTextFieldnameInputnull",
+    "inputValue": "",
+    "timeToNext": 4,
+    "eventType": "1004"
+  },
+  "8": {
+    "componentType": "javax.swing.JTextField",
+    "componentId": "JTextFieldnameInputnull",
+    "inputValue": "",
+    "timeToNext": 1577,
+    "eventType": "1005"
+  },
+  "9": {
+    "componentType": "javax.swing.JButton",
+    "componentId": "JButtonhello world!@null.contentPane",
+    "inputValue": "hello world!",
+    "timeToNext": 6,
+    "eventType": "1004"
+  },
+  "10": {
+    "componentType": "javax.swing.JButton",
+    "componentId": "JButtonhello world!@null.contentPane",
+    "inputValue": "hello world!",
+    "timeToNext": 2421,
+    "eventType": "1005"
+  }
+}
